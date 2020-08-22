@@ -1,3 +1,11 @@
+## Game Flow
+
+- You have 5 users showing in a leaderboard.<br />
+- All users start with 0 points.<br />
+- As you click +/-, the leaderboard updates and users are re-ordered based on score.<br />
+- Names sorted alphabetically if they are tied.<br />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

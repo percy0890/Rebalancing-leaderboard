@@ -4,11 +4,11 @@ import User from './User/User';
 
 function App() {
   const [data, setData] = useState([
-    { id: 1, name: 'Emma', points: 28 },
-    { id: 2, name: 'James', points: 19 },
-    { id: 3, name: 'Harry', points: 8 },
-    { id: 4, name: 'Joy', points: 2 },
-    { id: 5, name: 'Robert', points: 18 }
+    { id: 1, name: 'Emma', points: 0 },
+    { id: 2, name: 'James', points: 0 },
+    { id: 3, name: 'Harry', points: 0 },
+    { id: 4, name: 'Joy', points: 0 },
+    { id: 5, name: 'Robert', points: 0 }
   ])
 
   function compare(a, b) {
